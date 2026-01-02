@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hristo92.
-- 👀 I’m interested in web developing and cyber security.
-- 🌱 I’m currently learning web developing.
-- 💞️ I’m looking to collaborate on - i don`t know yet. Have you got any ideas :)
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on ideas that will help make the planet a better place to live and help people be happy.
 - 📫 How to reach me - https://www.linkedin.com/in/hristo-hristov-281009214/
 
 <!---
